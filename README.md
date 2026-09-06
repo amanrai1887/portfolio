@@ -1,2 +1,2 @@
-# Personal Portfolio Website in React
+# Personal Portfolio Website in React. 
 
